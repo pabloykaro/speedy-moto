@@ -31,7 +31,7 @@ export default function Home(){
       <a target="_blank" href='https://www.figma.com/proto/kfo1YkdVXlc8GvLj8yx26p/Untitled?page-id=0%3A1&node-id=3%3A2&viewport=1038%2C479%2C1&scaling=scale-down' className="bg-bluex-100 rounded w-full text-center my-2 flex flex-row items-center justify-center gap-2">
       <QrCode size={20}/> TESTE DE USABILIDADE
         </a>
-        <input type={'text'}>Oi</input>
+        <input type={'text'}/>
    </div>
     );
 }
