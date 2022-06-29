@@ -10,7 +10,7 @@ export default function Home(){
    <div className="min-h-full flex flex-col justify-center items-center max-w-[360px] w-full mx-auto text-white ">
 <Logo/>
     <h1 className="text-black font-bold text-[1.2rem]">
-    Seu moto-táxi na palma da sua mão!a
+    Seu moto-táxi na palma da sua mão!
     </h1>
         <p className="mt-1 text-[0.8rem] leading-relaxed text-left max-w-[320px]">
         Na Speedy você pode negociar o preço com seu moto-táxi para viajar com segurança escolhendo a melhor opção!
